@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08080D,50:190B2E,100:7E22CE&height=220&section=header&text=Brian%20Moser&fontSize=60&fontColor=E9D5FF&fontAlignY=38&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08080D,50:190B2E,100:7E22CE&height=230&section=header&text=Brian%20Moser&fontSize=65&fontColor=E9D5FF&fontAlignY=38&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
@@ -47,11 +47,11 @@
 📊 GitHub Analytics
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=sa0156553345-cmyk&show_icons=true&hide_border=true&bg_color=08080D&title_color=C084FC&text_color=E4E4E7&icon_color=A855F7" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sa0156553345-cmyk&show_icons=true&hide_border=true&bg_color=08080D&title_color=C084FC&text_color=E4E4E7&icon_color=A855F7" width="100%" />
 </p><p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sa0156553345-cmyk&layout=compact&hide_border=true&bg_color=08080D&title_color=C084FC&text_color=E4E4E7" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sa0156553345-cmyk&layout=compact&hide_border=true&bg_color=08080D&title_color=C084FC&text_color=E4E4E7" width="100%" />
 </p><p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=sa0156553345-cmyk&hide_border=true&background=08080D&ring=A855F7&fire=C084FC&currStreakLabel=C084FC&sideLabels=E4E4E7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=71717A" />
+  <img src="https://streak-stats.demolab.com?user=sa0156553345-cmyk&hide_border=true&background=08080D&ring=A855F7&fire=C084FC&currStreakLabel=C084FC&sideLabels=E4E4E7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=71717A" width="100%" />
 </p>---
 
 🎯 Featured Projects
@@ -72,7 +72,7 @@
       <p align="center">API authorization testing and BOLA research.</p>
       <p align="center">
         <a href="https://github.com/sa0156553345-cmyk/api-sentinel">
-          <img src="https://img.shields.io/badge/VIEW_PROJECT-7E22CE?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-A855F7?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
