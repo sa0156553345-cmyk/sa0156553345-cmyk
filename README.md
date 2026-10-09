@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,1e1b4b,7e22ce&height=200&section=header&text=Brian%20Moser&fontSize=60&fontColor=f5f3ff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Brian%20Moser&fontSize=60&fontColor=f5f3ff&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -40,18 +40,18 @@ $ cat profile.txt
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sa0156553345-cmyk&show_icons=true&hide_border=true&custom_title=GitHub%20Stats&bg_color=000000&title_color=c084fc&text_color=e9d5ff&icon_color=a855f7&ring_color=a855f7" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sa0156553345-cmyk&layout=compact&hide_border=true&langs_count=5&bg_color=000000&title_color=c084fc&text_color=e9d5ff" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sa0156553345-cmyk&theme=dark&background=000000&ring=a855f7&fire=c084fc&currStreakLabel=c084fc&sideLabels=e9d5ff&dates=9ca3af" />
+  <img src="https://streak-stats.demolab.com/?user=sa0156553345-cmyk&theme=dark&background=000000&ring=a855f7&fire=c084fc&currStreakLabel=c084fc&sideLabels=e9d5ff&dates=c4b5fd&border=7e22ce" />
 </p>
 
 ### `~/analytics`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sa0156553345-cmyk&theme=react-dark&hide_border=true&bg_color=000000&color=c084fc&line=a855f7&point=e9d5ff&area=true&area_color=3b0764&custom_title=Contribution%20Analytics" />
+  <img src="https://raw.githubusercontent.com/sa0156553345-cmyk/sa0156553345-cmyk/main/dashboard.jpg" width="100%" alt="Dashboard concept" />
 </p>
+<p align="center"><sub>Dashboard concept (UI mockup)</sub></p>
 
 ### `~/projects`
 
